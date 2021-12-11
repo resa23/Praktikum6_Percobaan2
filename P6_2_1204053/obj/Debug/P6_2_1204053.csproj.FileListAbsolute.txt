@@ -1,0 +1,11 @@
+C:\Users\laresa rianti\source\repos\P6_2_1204053\P6_2_1204053\bin\Debug\P6_2_1204053.exe.config
+C:\Users\laresa rianti\source\repos\P6_2_1204053\P6_2_1204053\bin\Debug\P6_2_1204053.exe
+C:\Users\laresa rianti\source\repos\P6_2_1204053\P6_2_1204053\bin\Debug\P6_2_1204053.pdb
+C:\Users\laresa rianti\source\repos\P6_2_1204053\P6_2_1204053\obj\Debug\P6_2_1204053.csproj.AssemblyReference.cache
+C:\Users\laresa rianti\source\repos\P6_2_1204053\P6_2_1204053\obj\Debug\P6_2_1204053.csproj.SuggestedBindingRedirects.cache
+C:\Users\laresa rianti\source\repos\P6_2_1204053\P6_2_1204053\obj\Debug\P6_2_1204053.Form1.resources
+C:\Users\laresa rianti\source\repos\P6_2_1204053\P6_2_1204053\obj\Debug\P6_2_1204053.Properties.Resources.resources
+C:\Users\laresa rianti\source\repos\P6_2_1204053\P6_2_1204053\obj\Debug\P6_2_1204053.csproj.GenerateResource.cache
+C:\Users\laresa rianti\source\repos\P6_2_1204053\P6_2_1204053\obj\Debug\P6_2_1204053.csproj.CoreCompileInputs.cache
+C:\Users\laresa rianti\source\repos\P6_2_1204053\P6_2_1204053\obj\Debug\P6_2_1204053.exe
+C:\Users\laresa rianti\source\repos\P6_2_1204053\P6_2_1204053\obj\Debug\P6_2_1204053.pdb
